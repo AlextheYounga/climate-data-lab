@@ -1,0 +1,16 @@
+scipy
+numpy
+matplotlib
+seaborn
+pandas
+tabulate
+texttable
+requests
+python-dotenv
+python-environ
+beautifulsoup4
+redis
+colored
+pytrends
+python-dateutil
+progressbar2
